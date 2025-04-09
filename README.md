@@ -1,0 +1,2 @@
+# sendy
+Mail newsletter
